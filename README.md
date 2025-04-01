@@ -22,4 +22,4 @@
 | [TypeScript with Node.js](https://github.com/potatoscript/typescript/wiki/TypeScript-with-Node.js) | Learn how to use TypeScript in a Node.js environment for backend development. |
 | [TypeScript with React](https://github.com/potatoscript/typescript/wiki/TypeScript-with-React) | Learn how to use TypeScript with React to build modern web applications. |
 | [TypeScript with Angular](https://github.com/potatoscript/typescript/wiki/TypeScript-with-Angular) | Learn how to use TypeScript with Angular for front-end web development. |
-| [Conclusion and Next Steps](https://github.com/potatoscript/typescript/wiki/Conclusion-and-Next-Steps) | Wrap up the tutorial and find resources for continuing your TypeScript learning journey. |
+
